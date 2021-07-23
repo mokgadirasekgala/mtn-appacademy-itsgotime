@@ -1,0 +1,8 @@
+.idea/*
+*.pyc
+db.sqlite3
+.DS_Store
+.envs
+staticfiles/
+photos/
+meadia/
