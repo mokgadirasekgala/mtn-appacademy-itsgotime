@@ -9,7 +9,7 @@ import androidx.recyclerview.widget.RecyclerView
 import co.za.mtn.academy.itsgotime.R
 import co.za.mtn.academy.itsgotime.core.model.User
 
-class UserAdapter(val users: ArrayList<User>) : RecyclerView.Adapter<UserAdapter.ViewHolder>() {
+class UserAdapter(val users: List<User>) : RecyclerView.Adapter<UserAdapter.ViewHolder>() {
 
     var onItemClick: ((User) -> Unit)? = null
 

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828764401026",
+    "project_id": "itsgotime-8d20d",
+    "storage_bucket": "itsgotime-8d20d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828764401026:android:642c42eaf777b148a6f39b",
+        "android_client_info": {
+          "package_name": "co.za.mtn.academy.itsgotime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828764401026-aq978osl04jfef0uif624vugqcvem7s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwP_1dqk3SXXg0GU21tI7aShxRTJyrobM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828764401026-aq978osl04jfef0uif624vugqcvem7s7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
